@@ -1,0 +1,9 @@
+[server]
+port = 80
+server = "localhost"
+
+
+[http]
+port = 2313
+ngnix = "127.0.0.127"
+

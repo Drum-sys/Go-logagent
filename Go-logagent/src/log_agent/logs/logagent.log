@@ -1,0 +1,180 @@
+2022/03/23 19:51:01.322 [D]  init logger success
+2022/03/23 19:51:01.373 [D]  get conf from etcd success, log config is: [{/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/access.log ngnix_log} {/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/error.log ngnix_log_err}]
+2022/03/23 19:51:01.373 [D]  init etcd success
+2022/03/23 19:51:01.373 [D]  init tail success:&{debug ./logs/logagent.log 100 172.18.214.119:9092 [{./logs/logagent.log ngnix_log}] 172.18.214.119:2379 /oldboy/backend/logagent/config/}
+2022/03/23 19:51:01.374 [D]  start watch key: /oldboy/backend/logagent/config/172.18.214.119
+2022/03/23 19:51:01.378 [D]  init kafka success
+2022/03/23 19:51:01.378 [D]  initialize all success
+2022/03/23 19:51:01.379 [D]  test for logger 1
+2022/03/23 19:51:02.379 [D]  test for logger 2
+2022/03/23 19:51:03.380 [D]  test for logger 3
+2022/03/23 19:51:04.381 [D]  test for logger 4
+2022/03/23 19:51:05.382 [D]  test for logger 5
+2022/03/23 19:51:06.382 [D]  test for logger 6
+2022/03/23 19:51:07.383 [D]  test for logger 7
+2022/03/23 19:51:08.384 [D]  test for logger 8
+2022/03/23 19:51:09.385 [D]  test for logger 9
+2022/03/23 19:51:10.386 [D]  test for logger 10
+2022/03/23 19:51:11.386 [D]  test for logger 11
+2022/03/23 19:51:12.387 [D]  test for logger 12
+2022/03/23 19:51:13.388 [D]  test for logger 13
+2022/03/23 19:51:14.388 [D]  test for logger 14
+2022/03/23 19:51:15.389 [D]  test for logger 15
+2022/03/23 19:51:16.390 [D]  test for logger 16
+2022/03/23 19:51:17.390 [D]  test for logger 17
+2022/03/23 19:51:18.391 [D]  test for logger 18
+2022/03/23 19:51:19.392 [D]  test for logger 19
+2022/03/23 19:51:20.393 [D]  test for logger 20
+2022/03/23 19:51:21.394 [D]  test for logger 21
+2022/03/23 19:51:22.395 [D]  test for logger 22
+2022/03/23 19:51:23.396 [D]  test for logger 23
+2022/03/23 19:51:24.396 [D]  test for logger 24
+2022/03/23 19:51:25.397 [D]  test for logger 25
+2022/03/23 19:51:26.398 [D]  test for logger 26
+2022/03/23 19:51:27.399 [D]  test for logger 27
+2022/03/23 19:51:28.400 [D]  test for logger 28
+2022/03/23 19:51:29.401 [D]  test for logger 29
+2022/03/23 19:51:30.402 [D]  test for logger 30
+2022/03/23 19:51:31.402 [D]  test for logger 31
+2022/03/23 19:51:32.402 [D]  test for logger 32
+2022/03/23 19:51:33.403 [D]  test for logger 33
+2022/03/23 19:51:34.404 [D]  test for logger 34
+2022/03/23 19:51:35.405 [D]  test for logger 35
+2022/03/23 19:51:36.405 [D]  test for logger 36
+2022/03/23 19:51:37.406 [D]  test for logger 37
+2022/03/23 19:51:38.407 [D]  test for logger 38
+2022/03/23 19:51:39.407 [D]  test for logger 39
+2022/03/23 19:51:40.409 [D]  test for logger 40
+2022/03/23 19:51:41.409 [D]  test for logger 41
+2022/03/23 19:51:42.410 [D]  test for logger 42
+2022/03/23 19:51:43.411 [D]  test for logger 43
+2022/03/23 19:51:44.412 [D]  test for logger 44
+2022/03/23 19:51:45.413 [D]  test for logger 45
+2022/03/23 19:51:46.414 [D]  test for logger 46
+2022/03/23 19:51:47.415 [D]  test for logger 47
+2022/03/23 19:51:48.415 [D]  test for logger 48
+2022/03/23 19:51:49.415 [D]  test for logger 49
+2022/03/23 19:51:50.416 [D]  test for logger 50
+2022/03/23 19:51:51.417 [D]  test for logger 51
+2022/03/23 19:51:52.418 [D]  test for logger 52
+2022/03/23 19:51:53.419 [D]  test for logger 53
+2022/03/23 19:51:54.419 [D]  test for logger 54
+2022/03/23 19:51:55.420 [D]  test for logger 55
+2022/03/23 19:51:56.421 [D]  test for logger 56
+2022/03/23 19:51:57.422 [D]  test for logger 57
+2022/03/23 19:51:58.423 [D]  test for logger 58
+2022/03/23 19:51:59.424 [D]  test for logger 59
+2022/03/23 19:52:00.424 [D]  test for logger 60
+2022/03/23 19:52:01.425 [D]  test for logger 61
+2022/03/23 19:52:02.426 [D]  test for logger 62
+2022/03/23 19:52:03.427 [D]  test for logger 63
+2022/03/23 19:52:04.427 [D]  test for logger 64
+2022/03/23 19:52:05.428 [D]  test for logger 65
+2022/03/23 19:52:06.430 [D]  test for logger 66
+2022/03/23 19:52:07.430 [D]  test for logger 67
+2022/03/23 19:52:08.431 [D]  test for logger 68
+2022/03/23 19:52:09.432 [D]  test for logger 69
+2022/03/23 19:52:25.547 [D]  init logger success
+2022/03/23 19:52:25.559 [D]  get conf from etcd success, log config is: [{/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/logagent.log ngnix_log} {/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/error.log ngnix_log_err}]
+2022/03/23 19:52:25.559 [D]  init etcd success
+2022/03/23 19:52:25.560 [D]  init tail success:&{debug ./logs/logagent.log 100 172.18.214.119:9092 [{./logs/logagent.log ngnix_log}] 172.18.214.119:2379 /oldboy/backend/logagent/config/}
+2022/03/23 19:52:25.560 [D]  start watch key: /oldboy/backend/logagent/config/172.18.214.119
+2022/03/23 19:52:25.564 [D]  init kafka success
+2022/03/23 19:52:25.564 [D]  initialize all success
+2022/03/23 19:52:25.564 [D]  test for logger 1
+2022/03/23 19:52:26.564 [D]  test for logger 2
+2022/03/23 19:52:27.565 [D]  test for logger 3
+2022/03/23 19:52:28.565 [D]  test for logger 4
+2022/03/23 19:52:29.566 [D]  test for logger 5
+2022/03/23 19:52:30.566 [D]  test for logger 6
+2022/03/23 19:52:31.567 [D]  test for logger 7
+2022/03/23 19:52:32.567 [D]  test for logger 8
+2022/03/23 19:52:33.568 [D]  test for logger 9
+2022/03/23 19:52:34.569 [D]  test for logger 10
+2022/03/23 19:52:35.569 [D]  test for logger 11
+2022/03/23 19:52:36.571 [D]  test for logger 12
+2022/03/23 19:52:37.571 [D]  test for logger 13
+2022/03/23 19:52:38.572 [D]  test for logger 14
+2022/03/23 19:52:39.573 [D]  test for logger 15
+2022/03/23 19:52:40.573 [D]  test for logger 16
+2022/03/23 19:52:41.574 [D]  test for logger 17
+2022/03/23 19:52:42.575 [D]  test for logger 18
+2022/03/23 19:52:43.575 [D]  test for logger 19
+2022/03/23 19:52:44.575 [D]  test for logger 20
+2022/03/23 20:10:36.451 [D]  init logger success
+2022/03/23 20:10:36.457 [D]  get conf from etcd success, log config is: [{/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/logagent.log ngnix_log} {/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/error.log ngnix_log_err}]
+2022/03/23 20:10:36.457 [D]  init etcd success
+2022/03/23 20:10:36.457 [D]  init tail success:&{debug ./logs/logagent.log 100 172.18.214.119:9092 [{./logs/logagent.log ngnix_log}] 172.18.214.119:2379 /oldboy/backend/logagent/config/}
+2022/03/23 20:10:36.457 [D]  start watch key: /oldboy/backend/logagent/config/172.18.214.119
+2022/03/23 20:10:36.460 [D]  init kafka success
+2022/03/23 20:10:36.460 [D]  initialize all success
+2022/03/23 20:10:36.460 [D]  test for logger 1
+2022/03/23 20:10:37.460 [D]  test for logger 2
+2022/03/23 20:10:38.461 [D]  test for logger 3
+2022/03/23 20:10:39.462 [D]  test for logger 4
+2022/03/23 20:10:40.463 [D]  test for logger 5
+2022/03/23 20:10:41.464 [D]  test for logger 6
+2022/03/23 20:10:42.465 [D]  test for logger 7
+2022/03/23 20:10:43.465 [D]  test for logger 8
+2022/03/23 20:10:44.466 [D]  test for logger 9
+2022/03/23 20:10:45.467 [D]  test for logger 10
+2022/03/23 20:10:46.468 [D]  test for logger 11
+2022/03/23 20:13:26.672 [D]  init logger success
+2022/03/23 20:13:26.678 [D]  get conf from etcd success, log config is: [{/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/logagent.log ngnix_log} {/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/error.log ngnix_log_err}]
+2022/03/23 20:13:26.678 [D]  init etcd success
+2022/03/23 20:13:26.678 [D]  init tail success:&{debug ./logs/logagent.log 100 172.18.214.119:9092 [{./logs/logagent.log ngnix_log}] 172.18.214.119:2379 /oldboy/backend/logagent/config/}
+2022/03/23 20:13:26.679 [D]  start watch key: /oldboy/backend/logagent/config/172.18.214.119
+2022/03/23 20:13:26.681 [D]  init kafka success
+2022/03/23 20:13:26.681 [D]  initialize all success
+2022/03/23 20:13:26.681 [D]  test for logger 1
+2022/03/23 20:13:27.681 [D]  test for logger 2
+2022/03/23 20:13:28.682 [D]  test for logger 3
+2022/03/23 20:13:29.683 [D]  test for logger 4
+2022/03/23 20:13:30.683 [D]  test for logger 5
+2022/03/23 20:13:31.684 [D]  test for logger 6
+2022/03/23 20:17:25.952 [D]  init logger success
+2022/03/23 20:17:25.956 [D]  get conf from etcd success, log config is: [{/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/logagent.log ngnix_log} {/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/error.log ngnix_log_err}]
+2022/03/23 20:17:25.956 [D]  init etcd success
+2022/03/23 20:17:25.957 [D]  init tail success:&{debug ./logs/logagent.log 100 172.18.214.119:9092 [{./logs/logagent.log ngnix_log}] 172.18.214.119:2379 /oldboy/backend/logagent/config/}
+2022/03/23 20:17:25.957 [D]  start watch key: /oldboy/backend/logagent/config/172.18.214.119
+2022/03/23 20:17:25.959 [D]  init kafka success
+2022/03/23 20:17:25.959 [D]  initialize all success
+2022/03/23 20:17:25.959 [D]  test for logger 1
+2022/03/23 20:17:26.960 [D]  test for logger 2
+2022/03/23 20:17:27.961 [D]  test for logger 3
+2022/03/23 20:17:28.961 [D]  test for logger 4
+2022/03/23 20:17:29.962 [D]  test for logger 5
+2022/03/23 20:17:30.963 [D]  test for logger 6
+2022/03/23 20:17:31.964 [D]  test for logger 7
+2022/03/23 20:17:32.965 [D]  test for logger 8
+2022/03/23 20:17:33.965 [D]  test for logger 9
+2022/03/23 20:17:34.966 [D]  test for logger 10
+2022/03/23 20:17:35.966 [D]  test for logger 11
+2022/03/23 20:17:36.967 [D]  test for logger 12
+2022/03/23 20:17:37.967 [D]  test for logger 13
+2022/03/23 20:17:38.968 [D]  test for logger 14
+2022/03/23 20:18:18.047 [D]  init logger success
+2022/03/23 20:18:18.053 [D]  get conf from etcd success, log config is: [{/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/logagent.log ngnix_log} {/home/drum/go_workspace/src/laonanhai/src/log_agent/logs/error.log ngnix_log_err}]
+2022/03/23 20:18:18.053 [D]  init etcd success
+2022/03/23 20:18:18.053 [D]  init tail success:&{debug ./logs/logagent.log 100 172.18.214.119:9092 [{./logs/logagent.log ngnix_log}] 172.18.214.119:2379 /oldboy/backend/logagent/config/}
+2022/03/23 20:18:18.053 [D]  start watch key: /oldboy/backend/logagent/config/172.18.214.119
+2022/03/23 20:18:18.055 [D]  init kafka success
+2022/03/23 20:18:18.055 [D]  initialize all success
+2022/03/23 20:18:18.055 [D]  test for logger 1
+2022/03/23 20:18:19.056 [D]  test for logger 2
+2022/03/23 20:18:20.057 [D]  test for logger 3
+2022/03/23 20:18:21.057 [D]  test for logger 4
+2022/03/23 20:18:22.058 [D]  test for logger 5
+2022/03/23 20:18:23.058 [D]  test for logger 6
+2022/03/23 20:18:24.059 [D]  test for logger 7
+2022/03/23 20:18:25.060 [D]  test for logger 8
+2022/03/23 20:18:26.060 [D]  test for logger 9
+2022/03/23 20:18:27.060 [D]  test for logger 10
+2022/03/23 20:18:28.061 [D]  test for logger 11
+2022/03/23 20:18:29.062 [D]  test for logger 12
+2022/03/23 20:18:30.062 [D]  test for logger 13
+2022/03/23 20:18:31.063 [D]  test for logger 14
+2022/03/23 20:18:32.064 [D]  test for logger 15
+2022/03/23 20:18:33.065 [D]  test for logger 16
+2022/03/23 20:18:34.065 [D]  test for logger 17
+2022/03/23 20:18:35.065 [D]  test for logger 18
